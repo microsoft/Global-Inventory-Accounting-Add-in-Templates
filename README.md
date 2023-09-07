@@ -1,14 +1,8 @@
-# Project
+# Global-Inventory-Accounting-Add-in-Templates
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This project contains the following samples:
 
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+1. PowerBI report template models for Global Inventory Accounting add-in.
 
 ## Contributing
 

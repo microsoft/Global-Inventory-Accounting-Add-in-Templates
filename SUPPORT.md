@@ -6,8 +6,9 @@ This project uses GitHub Issues to track bugs and feature requests. Please searc
 issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
 feature request as a new Issue.
 
-For help and questions about using this project, please contact globalinvaccount@microsoft.com.
+This repository only contains Global Inventory Accounting Add-in examples. For helps related to Global Inventory Accounting Add-in itself, please contact Microsoft support directly.
+
 
 ## Microsoft Support Policy  
 
-Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+Support for this **PROJECT** is limited to the resources listed above.
